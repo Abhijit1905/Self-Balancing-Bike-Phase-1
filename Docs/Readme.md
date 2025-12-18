@@ -77,6 +77,6 @@ PID parameters were tuned iteratively using simulation and experimental testing.
 
 ---
 
-## Repository Structure
+
 
 
